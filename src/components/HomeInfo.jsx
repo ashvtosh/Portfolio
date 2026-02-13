@@ -10,7 +10,7 @@ const HomeInfo = ({ currentStage }) => {
         <span className='font-semibold mx-2 text-white'>Ashutosh</span>
         👋
         <br />
-        A Fresher Computer Science Engineer from GLA University
+        Software Engineer at Capgemini | Azure Integration Services
       </h1>
     );
 
@@ -18,7 +18,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium sm:text-xl text-center'>
-          A Tech- enthusiast guy who is fully devoted to learning new technologies  <br />
+          A Tech-enthusiast guy who is fully devoted to learning new technologies  <br />
         </p>
 
         <Link to='/about' className='neo-brutalism-white neo-btn'>
@@ -48,7 +48,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
       <p className='font-medium sm:text-xl text-center'>
-        Looking for a job as a recent grad <br/>
+        Looking for a job as a experience professional<br/>
       </p>
 
       <Link to='/contact' className='neo-brutalism-white neo-btn'>
